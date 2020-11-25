@@ -4,4 +4,4 @@
 [![Gmail Badge](https://img.shields.io/badge/lucas4pinheiro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas4pinheiro@gmail.com)](mailto:lucas4pinheiro@gmail.com)
 
 
-I am graduated in computer science, with more than 3 years of experience in developing desktop and web applications, I have knowledge in functional programming, OOP, Python, and Javascript, and with solid knowledge in backend development.
+I am graduated in computer science, with more than 3 years of experience in developing desktop and web applications, I have knowledge in functional programming, OOP, Python, and Javascript, and with solid knowledge in backend development and api rest.
