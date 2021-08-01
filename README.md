@@ -1,7 +1,20 @@
-# Lucas Pinheiro
+## Hi, my name is Lucas, welcome to my Github
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Pinheiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pinheiro-462794152/)](https://www.linkedin.com/in/lucas-pinheiro-462794152/) 
-[![Gmail Badge](https://img.shields.io/badge/lucas4pinheiro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas4pinheiro@gmail.com)](mailto:lucas4pinheiro@gmail.com)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/luccasph/my-love)
-
-I am a back-end developer, studying the 8th period of computer science at the University of the State of Píaui, I have experience in the development of desktop and web applications, I have knowledge in functional programming, OOP and Python and Javascript / Typescript programming language, and with solid knowledge in API Rest development, I am interested in application scalability, infrastructure, development best practices, TDD and DDD.
+ <div>
+  <a href="https://github.com/luccasPh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasPh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasPh&layout=compact&langs_count=8&theme=onedark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+</div>
+  
+  ###
+  
+<div> 
+  <a href = "mailto:lucas4pinheiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-pinheiro-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
