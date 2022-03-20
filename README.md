@@ -1,4 +1,4 @@
-<h2> <img src="https://media.giphy.com/media/JRPx7fOmONz6pQVR8X/giphy.gif" width="70">  I'm Lucas Pinheiro</h2>
+<h2> <img src="https://media.giphy.com/media/JRPx7fOmONz6pQVR8X/giphy.gif" width="70">  I'm Lucas</h2>
 <p><em>Software engineer at <a href="https://www.quintoandar.com.br/">QuintoAndar</a><img src="https://media.giphy.com/media/CG2e9WF8qw8SogFpS3/giphy.gif" width="30"> 
 </em></p>
 <div align="left">
