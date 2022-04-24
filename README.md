@@ -7,7 +7,7 @@
  
  <a href="https://www.linkedin.com/in/lucas-ph/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:lucas4pinheiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://twitter.com/luccasphp" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/luccas_php" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="Instagram"></a>
  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasPh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
