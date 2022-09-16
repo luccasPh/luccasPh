@@ -11,7 +11,7 @@
  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasPh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasPh&layout=compact&langs_count=8&theme=onedark&hide=jupyter notebook,html,css,scss"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasPh&layout=compact&langs_count=8&theme=onedark&hide=jupyter%20notebook,html,css,scss"/>
 </div>
  
 <p align="left">
