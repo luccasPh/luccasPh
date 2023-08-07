@@ -10,6 +10,6 @@
 <a href="https://twitter.com/luccas_php" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="Instagram"></a>
  
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasPh&layout=compact&langs_count=8&theme=onedark&hide=jupyter%20notebook,html,css,scss"/>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasPh&layout=compact&langs_count=8&theme=onedark&hide=jupyter%20notebook,html,css,scss"/>
 </div>
  
