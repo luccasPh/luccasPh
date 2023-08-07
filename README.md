@@ -10,11 +10,6 @@
 <a href="https://twitter.com/luccas_php" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" alt="Instagram"></a>
  
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasPh&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasPh&layout=compact&langs_count=8&theme=onedark&hide=jupyter%20notebook,html,css,scss"/>
 </div>
  
-<p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SwgB2LsQdxfGe2Tt86/giphy.gif" width="70">
-  
-</p>
